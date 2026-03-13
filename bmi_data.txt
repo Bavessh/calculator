@@ -1,0 +1,9 @@
+Weight: 57.0 kg, Height: 7.0 m, BMI: 1.16
+Weight: 57.0 kg, Height: 7.0 m, BMI: 1.16
+Weight: 53.0 kg, Height: 9.0 m, BMI: 0.65
+Weight: 20.0 kg, Height: 9.0 m, BMI: 0.25
+Weight: 20.0 kg, Height: 1.0 m, BMI: 20.00
+Weight: 53.0 kg, Height: 6.0 m, BMI: 1.47
+Weight: 53.0 kg, Height: 6.0 m, BMI: 1.47
+Weight: 53.0 kg, Height: 6.0 m, BMI: 1.47
+Weight: 53.0 kg, Height: 6.0 m, BMI: 1.47
